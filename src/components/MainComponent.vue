@@ -4,10 +4,15 @@
 
 <script>
     export default {
-        name: 'MainComponent'
+        name: 'MainComponent',
+        data(){
+            return {
+
+            }
+        }
     }
 </script>
 
 <style lang="scss" scoped>
-    
+
 </style>
